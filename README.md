@@ -13,7 +13,7 @@ Install GitHub for Desktop<br>
 <br>
 #Outcome <br>
 -> GitHub for version control <br>
--> Full Dev env + pre-built application <br>
+	-> Full Dev env + pre-built application <br>
 		-> Integrated with Visual Studio for code for creating feature and step files <br>
 I am using a BDD environment in this example but really this applies to any dev environment or application you want to build in this way. <br>
 <br>
@@ -60,7 +60,7 @@ README.md - 	        appears in your online repo as an instruction file to help 
 #Create a new package.json <br>
 Open the command window.<br>
 Initialise the dev folder to create a new package.json: <br>
-> npm init <br>
+    >$ npm init <br>
 <br>
 NPM will pick up the details of the application files installed into the folder and ask you to provide some details.<br> 
 Change the following answers: <br>
@@ -78,17 +78,17 @@ Copy the URL for the repo <br>
 <br>
 #Update Node <br>
 Install node.js updates into the BDDInt folder from the command line: <br>
-> npm install node.js <br>
+    >$ npm install node.js <br>
 <br>
 <br>
 #Update Mocha <br>
 Upgrade mocha in the BDDInt folder from the command line: <br>
-> npm install mocha <br>
+    >$ npm install mocha <br>
 <br>
 <br>
 #Update Cucumber <br>
 Install cucumber into the BDDInt folder from the command line: <br>
->npm install cucumber <br>
+    >$ npm install cucumber <br>
 <br>
 <br>
 #Add cucumber to Package.json <br>
@@ -133,7 +133,7 @@ CoffeeScript simplifies the good parts of JavaScript. <br>
 You can use any existing JavaScript library seamlessly from CoffeeScript (and vice-versa). <br> 
 The compiled output is readable and can run as fast or faster than the <br>
 equivalent handwritten JavaScript. <br>
-  > npm install --save-dev coffeescript <br>
+  >$ npm install --save-dev coffeescript <br>
 <br>
 <br>
 #Check app changes <br>
@@ -143,14 +143,14 @@ Check CoffeeSript install in Visual Studio for code<br>
 <br>
 #Run tests <br>
 From the command line - <br>
- > cucumber-js <br>
+ >$ cucumber-js <br>
 All the tests run run sucessfully <br>
 <br>
 <br>
 #Run tests to fail <br>
 In the feature.addition file, change the expected result to A <br>
 Run the tests again from the command line <br>
- > cucumber-js <br>
+ >$ cucumber-js <br>
 All of the tests should fail <br>
 <br>
 <br>
