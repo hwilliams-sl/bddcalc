@@ -1,21 +1,21 @@
 # bddcalc
 
-#Plan
-Install GitHub for Desktop
-→ Add application files from a Github repo
-→ Upgrade dev apps in tech stack (node, mocha, cucumber)
-→ Integrate VS
-	→ View files in VS
-		→ Make some changes to the app in VS
-			→ Confirm changes in Git
-				→ Create pull request and verify changes in online repo
+#Plan <br>
+Install GitHub for Desktop<br>
+→ Add application files from a Github repo<br>
+→ Upgrade dev apps in tech stack (node, mocha, cucumber)<br>
+→ Integrate VS<br>
+	→ View files in VS <br>
+		→ Make some changes to the app in VS <br>
+			→ Confirm changes in Git <br>
+				→ Create pull request and verify changes in online repo <br>
 
 
-#Outcome
--> GitHub for version control
--> Full Dev env + pre-built application
-		-> Integrated with Visual Studio for code for creating feature and step files
-I am using a BDD environment in this example but really this applies to any dev environment or application you want to build in this way.
+#Outcome <br>
+-> GitHub for version control <br>
+-> Full Dev env + pre-built application <br>
+		-> Integrated with Visual Studio for code for creating feature and step files <br>
+I am using a BDD environment in this example but really this applies to any dev environment or application you want to build in this way. <br>
 
 
 #Install your runtime environment
