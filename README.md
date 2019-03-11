@@ -60,8 +60,9 @@ README.md - 	        appears in your online repo as an instruction file to help 
 #Create a new package.json <br>
 Open the command window.<br>
 Initialise the dev folder to create a new package.json: <br>
->npm init <br>
-NPM will pick up the details of the application files installed into the folder and ask you to provide some details. Change the following answers: <br>
+> npm init <br>
+NPM will pick up the details of the application files installed into the folder and ask you to provide some details.<br> 
+Change the following answers: <br>
 Change the author to your name <br>
 Regarding the URL - change the ElizaTWF to your GitHub name <br>
 Click return to create the file <br>
