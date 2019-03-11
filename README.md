@@ -3,12 +3,12 @@
 #Plan <br>
 Install GitHub for Desktop<br>
 → Add application files from a Github repo<br>
-→ Upgrade dev apps in tech stack (node, mocha, cucumber)<br>
-→ Integrate VS<br>
-	→ View files in VS <br>
-		→ Make some changes to the app in VS <br>
-			→ Confirm changes in Git <br>
-				→ Create pull request and verify changes in online repo <br>
+  → Upgrade dev apps in tech stack (node, mocha, cucumber)<br>
+    → Integrate VS<br>
+	    → View files in VS <br>
+		    → Make some changes to the app in VS <br>
+			    → Confirm changes in Git <br>
+			    	→ Create pull request and verify changes in online repo <br>
 <br>
 <br>
 #Outcome <br>
