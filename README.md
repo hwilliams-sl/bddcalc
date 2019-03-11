@@ -61,6 +61,7 @@ README.md - 	        appears in your online repo as an instruction file to help 
 Open the command window.<br>
 Initialise the dev folder to create a new package.json: <br>
 > npm init <br>
+<br>
 NPM will pick up the details of the application files installed into the folder and ask you to provide some details.<br> 
 Change the following answers: <br>
 Change the author to your name <br>
