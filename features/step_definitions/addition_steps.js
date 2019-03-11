@@ -13,7 +13,6 @@ When('they are added together', function () {
 	calculator.add();
 	});
 	
-
 Then('the result should be {int}', function (expected) 
 {assert.equal(calculator.getResult(), expected);
      });
