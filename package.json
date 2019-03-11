@@ -1,19 +1,38 @@
 {
   "name": "bddcalc",
   "version": "1.0.0",
-  "description": "",
+  "description": "BDD int env with VS and GH",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-	  "cucumber": "cucumber-js ./features" 
+  "directories": {
+    "lib": "lib"
   },
-  
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
+    "coffeescript": "^2.3.2",
     "cucumber": "^5.1.0",
-    "mocha": "^6.0.2",
-    "node": "^11.11.0"
-  }
+    "express": "^4.16.4",
+    "mime": "^2.4.0",
+    "node": "^11.11.0",
+    "node.js": "0.0.0",
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizaTWF/bddcalc.git"
+  },
+  "keywords": [
+    "help",
+    "me!"
+  ],
+  "author": "efiennes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElizaTWF/bddcalc/issues"
+  },
+  "homepage": "https://github.com/ElizaTWF/bddcalc#readme"
 }
