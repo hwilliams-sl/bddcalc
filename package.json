@@ -23,16 +23,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElizaTWF/bddcalc.git"
+    "url": "git+https://github.com/hwilliams-sl/bddcalc.git"
   },
   "keywords": [
     "help",
     "me!"
   ],
-  "author": "efiennes",
+  "author": "hwilliams",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ElizaTWF/bddcalc/issues"
+    "url": "https://github.com/hwilliams-sl/bddcalc/issues"
   },
-  "homepage": "https://github.com/ElizaTWF/bddcalc#readme"
+  "homepage": "https://github.com/hwilliams-sl/bddcalc#readme"
 }
